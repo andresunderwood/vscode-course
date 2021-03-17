@@ -8,4 +8,4 @@ const getUser = async () => {
 
 }
 
-getUser()
+getUser();
